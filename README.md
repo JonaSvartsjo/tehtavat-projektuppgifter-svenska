@@ -11,17 +11,17 @@ Tehtävien ratkaisut palautetaan PDF-raporttina alla olevien ohjeiden mukaisesti
 ## Tehtävät
 
 - [Tehtävä 1: Tietokannan käyttö](1.md) (30 pistettä)
-- [Tehtävä 2: Tietokannan suunnittelu](2.md) (10 pistettä)
+- [Tehtävä 2: Tietokannan suunnittelu](2.md) (15 pistettä)
 - [Tehtävä 3: Transaktiot](3.md) (10 pistettä)
 - [Tehtävä 4: Indeksin tehokkuus](4.md) (10 pistettä)
 - [Tehtävä 5: Relaatioalgebra](5.md) (10 pistettä)
 - [Tehtävä 6: NoSQL-tietokanta](6.md) (10 pistettä)
 - [Tehtävä 7: Tietokannan muunnos](7.md) (10 pistettä)
-- [Tehtävä 8: Kurssin päätös](8.md) (10 pistettä)
+- [Tehtävä 8: Kurssin päätös](8.md) (5 pistettä)
 
 ## Pisteytys
 
-Voit valita haluamallasi tavalla, mitkä tehtävät ratkaiset. Esimerkiksi jos ratkaiset tehtävät 1, 2, 5, 6 ja 8, pistemääräsi on 30 + 10 + 10 + 10 + 10 = 70.
+Voit valita haluamallasi tavalla, mitkä tehtävät ratkaiset. Esimerkiksi jos ratkaiset tehtävät 1, 2, 5, 6 ja 8, pistemääräsi on 30 + 15 + 10 + 10 + 5 = 70.
 
 Saat pisteet tehtävästä, jos PDF-raportti sisältää tehtävänannon mukaiset vastaukset (esimerkiksi ohjelman koodi, kysymysten vastaukset).
 
