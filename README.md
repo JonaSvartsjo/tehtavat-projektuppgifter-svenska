@@ -4,6 +4,8 @@ Tämä repositorio sisältää kurssin _Tietokantojen perusteet_ projektitehtäv
 
 Sinun tulee ratkaista tehtävät itsenäisesti, mutta voit hyödyntää tehtävien ratkaisemisessa haluamallasi tavalla nettilähteitä ja tekoälytyökaluja.
 
+Kaikissa ohjelmointitehtävissä voit käyttää Python-kieltä tai R-kieltä.
+
 Tehtävien ratkaisut palautetaan PDF-raporttina alla olevien ohjeiden mukaisesti.
 
 ## Tehtävät
