@@ -21,7 +21,7 @@ Tehtävien ratkaisut palautetaan PDF-raporttina alla olevien ohjeiden mukaisesti
 
 ## Pisteytys
 
-Voit valita haluamallasi tavalla, mitkä tehtävät ratkaiset. Esimerkiksi jos ratkaiset tehtävät 1, 2, 5, 6 ja 8, pistemääräsi on 30 + 15 + 10 + 10 + 5 = 70.
+Voit valita haluamallasi tavalla, mitkä tehtävät ratkaiset. Esimerkiksi jos ratkaiset tehtävät 1, 2, 5, 6 ja 8, pistemääräsi on 30 + 15 + 10 + 10 + 5 = 70. Tehtävissä ei ole osittaisia pisteitä.
 
 Saat pisteet tehtävästä, jos PDF-raportti sisältää tehtävänannon mukaiset vastaukset (esimerkiksi ohjelman koodi, kysymysten vastaukset).
 
