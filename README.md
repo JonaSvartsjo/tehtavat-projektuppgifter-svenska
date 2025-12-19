@@ -1,36 +1,36 @@
-# Tietokantojen perusteet, syksy 2025
+# Databasernas grunder, våren 2026
 
-Tämä repositorio sisältää kurssin _Tietokantojen perusteet_ projektitehtävät.
+Detta är uppgiftsrepositoriet innehållande projektuppgifterna för kursen _Databasernas grunder_.
 
-Sinun tulee ratkaista tehtävät itsenäisesti, mutta voit hyödyntää tehtävien ratkaisemisessa haluamallasi tavalla nettilähteitä ja tekoälytyökaluja.
+Projektuppgifterna ska lösas självständigt. Nätkällor och artificiell intelligens får användas på valfritt sätt för att lösa projektuppgifterna. 
 
-Kaikissa ohjelmointitehtävissä voit käyttää Python-kieltä tai R-kieltä.
+I programmeringsuppgifterna kan du använda Python eller R.
 
-Tehtävien ratkaisut palautetaan PDF-raporttina alla olevien ohjeiden mukaisesti.
+Lösningarna ska lämnas in som en PDF-rapport enligt instruktionerna nedan.
 
-## Tehtävät
+## Uppgifter
 
-- [Tehtävä 1: Tietokannan käyttö](1.md) (30 pistettä)
-- [Tehtävä 2: Tietokannan suunnittelu](2.md) (15 pistettä)
-- [Tehtävä 3: Transaktiot](3.md) (10 pistettä)
-- [Tehtävä 4: Indeksin tehokkuus](4.md) (10 pistettä)
-- [Tehtävä 5: Relaatioalgebra](5.md) (10 pistettä)
-- [Tehtävä 6: NoSQL-tietokanta](6.md) (10 pistettä)
-- [Tehtävä 7: Tietokannan muunnos](7.md) (10 pistettä)
-- [Tehtävä 8: Kurssin päätös](8.md) (5 pistettä)
+- [Uppgift 1: Databasanvändning](1.md) (30 poäng)
+- [Uppgift 2: Databasdesign](2.md) (15 poäng)
+- [Uppgift 3: Transaktioner](3.md) (10 poäng)
+- [Uppgift 4: Indexets effektivitet](4.md) (10 poäng)
+- [Uppgift 5: Relationsalgebra](5.md) (10 poäng)
+- [Uppgift 6: NoSQL-databas](6.md) (10 poäng)
+- [Uppgift 7: Databasomvandling](7.md) (10 poäng)
+- [Uppgift 8: Kursens avslutning](8.md) (5 poäng)
 
-## Pisteytys
+## Poängsättning
 
-Voit valita haluamallasi tavalla, mitkä tehtävät ratkaiset. Esimerkiksi jos ratkaiset tehtävät 1, 2, 5, 6 ja 8, pistemääräsi on 30 + 15 + 10 + 10 + 5 = 70. Tehtävissä ei ole osittaisia pisteitä.
+Du väljer själv vilka uppgifter du vill lösa. Exempelvis, om du löser uppgifterna 1, 2, 5, 6 och 8 blir dina totala poäng 30 + 15 + 10 + 10 + 5 = 70. Uppgifterna ger inga delpoäng.
 
-Saat pisteet tehtävästä, jos PDF-raportti sisältää tehtävänannon mukaiset vastaukset (esimerkiksi ohjelman koodi, kysymysten vastaukset).
+Du får poäng för en uppgift om PDF-rapporten innehåller de i uppgiftsbeskrivningen efterfrågade svaren, såsom kod och svar på frågor.
 
-Kurssin henkilökunta käy läpi PDF-raportit kurssin deadlinen jälkeen, mutta pisteet eivät muutu, ellet ole toiminut selvästi ohjeiden vastaisesti.
+Kursansvariga går igenom PDF-rapporterna efter kursens deadline. Poängen ändras inte om du inte tydligt har brutit mot instruktionerna.
 
-## Palautus
+## Inlämning
 
-Palauta tehtävät yhtenä PDF-tiedostona, joka sisältää kaikkien ratkaisemiesi tehtävien vastaukset.
+Dina lösningar ska lämnas in som en enda PDF-fil som innehåller svaren på alla de uppgifter du har löst.
 
-Liitä lisäksi raporttiin tiedot käyttämistäsi lähteistä. Jos olet käyttänyt tekoälytyökaluja, kerro raportissa, miten olet käyttänyt niitä.
+Redogör också i rapporten för de källor du har använt. Om du har använt AI-verktyg ska du beskriva hur de har använts.
 
-Palauta PDF-raportti [verkkolomakkeen](https://elomake.helsinki.fi/lomakkeet/136611/) kautta viimeistään 26.10.2025 klo 23:59.
+PDF-rapporten ska lämnas in via [webbformuläret](https://elomake.helsinki.fi/lomakkeet/136611/) denast den xx.xx.2026 klockan 23:59.
