@@ -33,4 +33,4 @@ Dina lösningar ska lämnas in som en enda PDF-fil som innehåller svaren på al
 
 Redogör också i rapporten för de källor du har använt. Om du har använt AI-verktyg ska du beskriva hur de har använts.
 
-PDF-rapporten ska lämnas in via [webbformuläret](https://elomake.helsinki.fi/lomakkeet/136611/) senast den xx.xx.2026 klockan 23:59.
+PDF-rapporten ska lämnas in via [webbformuläret](https://elomake.helsinki.fi/lomakkeet/136611/) senast xx.xx.2026 klockan 23:59.
