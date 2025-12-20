@@ -15,9 +15,9 @@ Lösningarna ska lämnas in som en PDF-rapport enligt instruktionerna nedan.
 - [Uppgift 3: Transaktioner](3.md) (10 poäng)
 - [Uppgift 4: Indexets effektivitet](4.md) (10 poäng)
 - [Uppgift 5: Relationsalgebra](5.md) (10 poäng)
-- [Uppgift 6: NoSQL-databas](6.md) (10 poäng)
+- [Uppgift 6: NoSQL-databaser](6.md) (10 poäng)
 - [Uppgift 7: Databasomvandling](7.md) (10 poäng)
-- [Uppgift 8: Kursens avslutning](8.md) (5 poäng)
+- [Uppgift 8: Kursens slut](8.md) (5 poäng)
 
 ## Poängsättning
 
@@ -33,4 +33,4 @@ Dina lösningar ska lämnas in som en enda PDF-fil som innehåller svaren på al
 
 Redogör också i rapporten för de källor du har använt. Om du har använt AI-verktyg ska du beskriva hur de har använts.
 
-PDF-rapporten ska lämnas in via [webbformuläret](https://elomake.helsinki.fi/lomakkeet/136611/) denast den xx.xx.2026 klockan 23:59.
+PDF-rapporten ska lämnas in via [webbformuläret](https://elomake.helsinki.fi/lomakkeet/136611/) senast den xx.xx.2026 klockan 23:59.
